@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "is-palindrome-js": "^0.0.1",
+    "palindrome-check": "^1.0.1",
+    "palindrome-test": "^1.0.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
