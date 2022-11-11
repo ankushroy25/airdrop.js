@@ -1,8 +1,27 @@
 {
   "dependencies": {
+    "@solana/web3.js": "^1.66.2",
     "is-palindrome-js": "^0.0.1",
     "palindrome-check": "^1.0.1",
     "palindrome-test": "^1.0.1",
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "name": "solana-camp",
+  "description": "",
+  "version": "1.0.0",
+  "main": "airdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankushroy25/solana-camp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankushroy25/solana-camp/issues"
+  },
+  "homepage": "https://github.com/ankushroy25/solana-camp#readme"
 }
